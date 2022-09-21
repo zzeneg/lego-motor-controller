@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kleeb-mcu")(type "KiCad")(uri "${KIPRJMOD}/../lib/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "lego")(type "KiCad")(uri "${KIPRJMOD}/lego.kicad_sym")(options "")(descr ""))
+)
