@@ -1,3 +1,6 @@
 [submodule "lib/kleeb"]
 	path = lib/kleeb
 	url = ../../crides/kleeb
+[submodule "lib/zzkeeb"]
+	path = lib/zzkeeb
+	url = ../zzkeeb.git
